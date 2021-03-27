@@ -1,0 +1,213 @@
+/* *{
+    width: 100%;
+} */
+#navv{
+    background-color: #333333;
+    padding-left: 30px;
+    padding-bottom: 2px;
+    text-align: center;
+    margin-top: -20px;
+    margin-left: -8px;
+    margin-right: -7px;
+}
+#navv > ul{
+    list-style-type: none;
+}
+#navv > ul > li{
+    display: inline;
+    padding: 40px;
+}
+.navcolor{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+#nav2{
+    background-color: rgb(30, 144, 255);
+    padding: 10px;
+    text-align: center;
+    margin-left: -8px;
+    margin-right: -7px;
+}
+#nav22{
+    color: white;
+}
+#nav33{
+    color: gray;
+}
+#nav3{
+    background-color: whitesmoke;
+    padding: 1px;
+    text-align: center;
+    margin-left: -8px;
+    margin-right: -7px;
+}
+#textimg1{
+    text-align: center;
+    margin-left: -8px;
+    margin-right: -7px;
+    background-color: #FBFBFD;
+    padding-top: 10px;
+}
+#tsize1{
+    font-size: 38pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-bottom: -2px;
+    margin-top: 30px;
+}
+#tsize2{
+    font-size: 22pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-top: -3px;
+}
+.psize{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: silver;
+}
+.ah{
+    font-size: 25px;
+    color: rgb(30, 144, 255);
+    text-decoration: none;
+}
+#textimg2{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+    margin-left: -8px;
+    margin-right: -7px;
+}
+#textimg4{
+    display: flex;
+}
+#ts1{
+    font-size: 38pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-bottom: -2px;
+    margin-top: 10px;
+}
+#ts2{
+    font-size: 22pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-top: -1px;
+}
+#textimg3{
+    text-align: center;
+    padding-top: 50px;
+    margin-left: -8px;
+    margin-right: -7px;
+    background-color: #FBFBFD;
+}
+#t1{
+    font-size: 22pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-top: -1px;
+    color: rgb(31, 30, 30);
+}
+#ti1{
+    text-align: center;
+    /* margin-right: 680px; */
+    background-color: #FBFBFD;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+}
+#ia{
+    font-size: 26pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    /* margin-top: -1px; */
+}
+#pcw{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ahh{
+    font-size: 20px;
+    color: rgb(30, 144, 255);
+    text-decoration: none;
+}
+#ti2{
+    background-color: black;
+    text-align: center;
+    /* margin-left: 660px; */
+    padding-top: 40px;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-bottom: 100px;
+}
+#ti22{
+    color: white;
+}
+#textimg5{
+    display: flex;
+    text-align: center;
+}
+#Ma{
+    background-color: black;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+}
+#mac{
+    font-size: 26pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+#pow{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+#Ft{
+    background-color: #FBFBFD;
+    padding-top: 40px;
+    padding-left: 71px;
+    padding-right: 71px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+#newf{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#textimg6{
+    display: flex;
+}
+#dimg{
+    text-align: center;
+    background-color: #FBFBFD;
+    padding-top: 40px;
+    padding-left: 96px;
+    padding-right: 97px;
+    padding-bottom: 100px;
+}
+#ddimg{
+    background-color: #ACA89C;
+    padding-right: 30px;
+    padding-left: 11px;
+}
+#f1{
+    background-color: #F5F5F7;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 8px;
+    color: #ABABAF;
+    font-size: 10pt;
+}
+#footer{
+    display: flex;
+}
+h3{
+    color: darkgray;
+}
+.f11{
+    padding-right: 50px;
+    padding-left: 20px;
+    /* font-weight: lighter; */
+    font-size: 10pt;
+}
